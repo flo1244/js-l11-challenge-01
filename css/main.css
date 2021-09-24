@@ -35,7 +35,7 @@ img {
 
 @keyframes fadeIn{
 	0% {opacity: 0;}
-	50% {opacity: 0.5;}
+	50% {opacity: 0.1;}
 	100% {opacity: 1;}
 }
 
@@ -43,6 +43,7 @@ img {
 	animation-name: fadeIn;
 	animation-duration: 4s;
 	animation-timing-function: ease-in;
+	
 }
 
 
